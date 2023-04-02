@@ -1,0 +1,56 @@
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\bin\Debug\net6.0\Asp.net - intro.exe
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\bin\Debug\net6.0\Asp.net - intro.deps.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\bin\Debug\net6.0\Asp.net - intro.runtimeconfig.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\bin\Debug\net6.0\Asp.net - intro.dll
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\bin\Debug\net6.0\Asp.net - intro.pdb
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.AssemblyInfo.cs
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\staticwebassets\msbuild.Asp.net - intro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\staticwebassets\msbuild.build.Asp.net - intro.props
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Asp.net - intro.props
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Asp.net - intro.props
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\scopedcss\bundle\Asp.net - intro.styles.css
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.dll
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\refint\Asp.net - intro.dll
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.pdb
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.genruntimeconfig.cache
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net - intro(Task)\Asp.net - intro\Asp.net - intro\obj\Debug\net6.0\ref\Asp.net - intro.dll
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\bin\Debug\net6.0\Asp.net - intro.exe
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\bin\Debug\net6.0\Asp.net - intro.deps.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\bin\Debug\net6.0\Asp.net - intro.runtimeconfig.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\bin\Debug\net6.0\Asp.net - intro.dll
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\bin\Debug\net6.0\Asp.net - intro.pdb
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.AssemblyInfo.cs
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\staticwebassets\msbuild.Asp.net - intro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\staticwebassets\msbuild.build.Asp.net - intro.props
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Asp.net - intro.props
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Asp.net - intro.props
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\scopedcss\bundle\Asp.net - intro.styles.css
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.dll
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\refint\Asp.net - intro.dll
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.pdb
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\Asp.net - intro.genruntimeconfig.cache
+C:\Users\user\Desktop\Asp.net - intro(Practica)\Asp.net  ShowOddNums\Asp.net - intro\obj\Debug\net6.0\ref\Asp.net - intro.dll
